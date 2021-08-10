@@ -1,7 +1,7 @@
 ## Hello! 👋🏻 I'm Santiago, Junior Full Stack Engineer from Argentina 🇦🇷
 
 
-##### 💻 I'm about to finish [Plataforma5's](https://plataforma5.la/ar/online#carrera) +800 hours long coding bootcamp.
+##### 💻 I've just finished [Plataforma5's](https://plataforma5.la/ar/online#carrera) +800 hours long coding bootcamp.
 ##### 📌 I'm 25 and based in Buenos Aires, Argentina.
 ##### 🌎 I enjoy working with people all around the world
 
